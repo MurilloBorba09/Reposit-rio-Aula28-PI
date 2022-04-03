@@ -1,0 +1,105 @@
+.Container_0{
+
+    display: flex;
+    height: 110px;
+    width: 100%;
+
+}
+
+.Container_1{
+
+    display: flex;
+    justify-content: right;
+    height: 110px;
+    width: 100%;
+
+}
+
+.Container_2{
+
+    justify-content: center;
+    display: flex;
+    height: 110px;
+    width: 100%;
+
+}
+
+.Container_3{
+
+    justify-content: space-between;
+    display: flex;
+    height: 110px;
+    width: 100%;
+
+}
+
+.Container_4{
+
+    justify-content: space-around;
+    display: flex;
+    height: 110px;
+    width: 100%;
+
+}
+
+.Container_5{
+
+    justify-content: space-evenly;
+    display: flex;
+    height: 110px;
+    width: 100%;
+
+}
+
+.Container_6{
+
+    align-items: center;
+    display: flex;
+    height: 110px;
+    width: 100%;
+
+}
+
+.div_1{
+
+    align-items: center;
+    display: flex;
+    background-color: rgb(152, 152, 250);
+    width: 115px;
+    height: 115px;
+    justify-content: center;
+
+}
+
+.div_2{
+
+    align-items: center;
+    display: flex;
+    background-color: rgb(3, 3, 167);
+    width: 115px;
+    height: 115px;
+    justify-content: center;
+
+}
+
+.div_3{
+
+    align-items: center;
+    display: flex;
+    background-color: rgb(138, 18, 38);
+    width: 115px;
+    height: 115px;
+    justify-content: center;
+
+}
+
+.div_4{
+    
+    align-items: center;
+    display: flex;
+    background-color: orange;
+    width: 115px;
+    height: 115px;
+    justify-content: center;
+
+}
